@@ -1,4 +1,4 @@
-package com.example.bayrakuygulamasisqlite;
+package com.example.flagquiz;
 
 import android.content.Context;
 

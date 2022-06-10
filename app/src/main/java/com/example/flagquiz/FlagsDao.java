@@ -1,4 +1,4 @@
-package com.example.bayrakuygulamasisqlite;
+package com.example.flagquiz;
 
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;

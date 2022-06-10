@@ -1,4 +1,4 @@
-package com.example.bayrakuygulamasisqlite;
+package com.example.flagquiz;
 
 public class Flags {
     private int bayrak_id;
